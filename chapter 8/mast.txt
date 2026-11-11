@@ -1,0 +1,3 @@
+hii i am satyam kumar 
+i am learning python 
+file handling in paython
